@@ -6,7 +6,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-REPO = Path.home() / "Desktop/final-submission/instancesegmentation"
+REPO = Path(__file__).resolve().parents[2]
 rows = list(csv.DictReader(open(REPO / "runs/run_history.csv")))
 labels, values, colors = [], [], []
 for r in rows:

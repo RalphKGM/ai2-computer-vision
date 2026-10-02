@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image, ImageDraw
 
-SUB = Path.home() / "Desktop/final-submission"
-REPO = SUB / "instancesegmentation"
+REPO = Path(__file__).resolve().parents[2]
+SUB = REPO.parent  # folder that also holds dataset/ and from-drive/
 sys.path.insert(0, str(REPO / "src"))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from inference import load_image, overlay, predict  # noqa: E402

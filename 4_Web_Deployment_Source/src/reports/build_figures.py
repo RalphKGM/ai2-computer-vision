@@ -11,8 +11,8 @@ import numpy as np
 from matplotlib.patches import FancyBboxPatch
 from PIL import Image, ImageDraw
 
-SUB = Path.home() / "Desktop/final-submission"
-REPO = SUB / "instancesegmentation"
+REPO = Path(__file__).resolve().parents[2]
+SUB = REPO.parent  # folder that also holds dataset/ and from-drive/
 FIG = REPO / "reports/figures"
 SCR = Path(__file__).resolve().parent
 M = json.loads((REPO / "runs/final_metrics.json").read_text())

@@ -95,8 +95,3 @@ CC BY-NC-SA 4.0: non-commercial use with attribution and the same license.
 
 Training ran in Google Colab on one NVIDIA A100 80 GB with Ultralytics 8.4.126. See the notebook for every setting.
 The two-stage idea is adapted from Leiva et al. (2026), Plant Methods 22, 29.
-
-## AI use
-
-Claude (Anthropic) and OpenAI Codex were used for planning, explanation, drafting and code scaffolding. The team
-reviewed and tested all outputs. Full transcripts are in the submission under `ai_usage/`.
