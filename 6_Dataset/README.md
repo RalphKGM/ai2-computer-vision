@@ -4,11 +4,13 @@ Three YOLO instance segmentation datasets used for the final models. Each folder
 (one row per image with split, source and capture group), `audit.json` and `train`, `valid`, `test` and
 `test_reserve` folders with `images` and `labels`.
 
-| Folder | Used by | Train | Valid | Test | Reserve |
-|---|---|---:|---:|---:|---:|
-| `apple-sep30-fruit9` | Apple Runs 21 and 22 | 2,110 | 215 | 79 | 63 |
-| `tomato-sep29-source-oct01` | Tomato Runs 23 and 24 | 1,313 | 132 | 95 | 39 |
-| `apple-tomato-source-oct01` | Combined Runs 25 and 26 | 3,423 | 347 | 174 | 102 |
+| Folder | Colab archive name | Used by | Train | Valid | Test | Reserve |
+|---|---|---|---:|---:|---:|---:|
+| `apple_dataset` | `apple-sep30-fruit9` | Apple Runs 21 and 22 | 2,110 | 215 | 79 | 63 |
+| `tomato_dataset` | `tomato-sep29-source-oct01` | Tomato Runs 23 and 24 | 1,313 | 132 | 95 | 39 |
+| `apple_tomato_dataset` | `apple-tomato-source-oct01` | Combined Runs 25 and 26 | 3,423 | 347 | 174 | 102 |
+
+The notebook and training logs use the Colab archive names. The folder contents are the same.
 
 The combined set is the apple and tomato sets merged without reshuffling. No image changes split.
 
@@ -37,6 +39,6 @@ changing images or polygons.
 
 | Folder | Archive SHA-256 used in Colab |
 |---|---|
-| `apple-sep30-fruit9` | `779e8d8cb90aa25b4a83b2a6be99b0fc6ea6417426f3cc58488a4850ac0ac85e` |
-| `tomato-sep29-source-oct01` | `0f7093ee63dffe610ee837a332d75613375af217b513a43ffe317be0a3df9155` |
-| `apple-tomato-source-oct01` | `1bc76dc6eb6db1eedfe5bdf439cc8409b1eb6f8d62f76ea659a3753397e8e5d2` |
+| `apple_dataset` (`apple-sep30-fruit9`) | `779e8d8cb90aa25b4a83b2a6be99b0fc6ea6417426f3cc58488a4850ac0ac85e` |
+| `tomato_dataset` (`tomato-sep29-source-oct01`) | `0f7093ee63dffe610ee837a332d75613375af217b513a43ffe317be0a3df9155` |
+| `apple_tomato_dataset` (`apple-tomato-source-oct01`) | `1bc76dc6eb6db1eedfe5bdf439cc8409b1eb6f8d62f76ea659a3753397e8e5d2` |
