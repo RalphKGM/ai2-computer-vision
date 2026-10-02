@@ -13,7 +13,6 @@ Adviser: Dr. Lysa V. Comia, Mapúa University
 | `4_Web_Deployment_Source/` and `4_Web_Deployment_Source.zip` | Streamlit app source |
 | `5_PPT_Presentation/` | Final defense slides (.pptx) |
 | `6_Dataset/` | Apple, tomato and combined datasets with README |
-| `7_AI_Usage/` | AI tool disclosure and transcripts |
 
 ## Results (mask metrics, unseen test set)
 
@@ -28,14 +27,6 @@ Adviser: Dr. Lysa V. Comia, Mapúa University
 
 - App source repository: https://github.com/deangg/instancesegmentation (branch `final-defense`)
 - Full Colab run folders: Google Drive `MyDrive/YOLOv26/runs/`
-
-## Full project zip
-
-The Blackboard zip is too large for GitHub. Build it from this folder:
-
-```bash
-./make_submission_zip.sh
-```
 
 ## Run the app locally
 
