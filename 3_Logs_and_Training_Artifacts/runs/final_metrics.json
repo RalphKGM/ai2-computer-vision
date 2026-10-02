@@ -1,0 +1,398 @@
+{
+  "note": "Mask metrics. null means not measured yet. Validation numbers are not unseen test results.",
+  "apple": {
+    "stage1": {
+      "run": 21,
+      "model": "yolo26l-seg",
+      "epochs_done": 34,
+      "validation": {
+        "images": 215,
+        "instances": 219,
+        "precision": 1.0,
+        "recall": 0.986,
+        "mAP50": 0.985,
+        "mAP50_95": 0.985
+      }
+    },
+    "stage2": {
+      "run": 22,
+      "model": "Run 21 best.pt (yolo26l-seg)",
+      "status": "finished",
+      "best_epoch": 94,
+      "epochs_done": 124,
+      "validation": {
+        "images": 215,
+        "precision": 0.809,
+        "recall": 0.68,
+        "mAP50": 0.688,
+        "mAP50_95": 0.457
+      },
+      "validation_per_class": {
+        "bruise_discoloration": {
+          "precision": 0.847,
+          "recall": 0.744,
+          "mAP50": 0.777,
+          "mAP50_95": 0.526
+        },
+        "rot_mold_decay": {
+          "precision": 0.931,
+          "recall": 0.713,
+          "mAP50": 0.761,
+          "mAP50_95": 0.591
+        },
+        "surface_damage": {
+          "precision": 0.648,
+          "recall": 0.584,
+          "mAP50": 0.527,
+          "mAP50_95": 0.253
+        }
+      },
+      "test": {
+        "images": 79,
+        "precision": 0.718,
+        "recall": 0.597,
+        "mAP50": 0.613,
+        "mAP50_95": 0.411
+      },
+      "test_per_class": {
+        "bruise_discoloration": {
+          "precision": 0.663,
+          "recall": 0.609,
+          "mAP50": 0.594,
+          "mAP50_95": 0.391
+        },
+        "rot_mold_decay": {
+          "precision": 0.795,
+          "recall": 0.758,
+          "mAP50": 0.732,
+          "mAP50_95": 0.569
+        },
+        "surface_damage": {
+          "precision": 0.696,
+          "recall": 0.424,
+          "mAP50": 0.511,
+          "mAP50_95": 0.272
+        }
+      },
+      "test_checkpoint_sha256": "60a6307c77c35e9ea0887dbdff20a054299414f3de88cebfa31d91107489f74d",
+      "test_local_reproduction": {
+        "images": 79,
+        "precision": 0.719,
+        "recall": 0.593,
+        "mAP50": 0.602,
+        "mAP50_95": 0.397,
+        "note": "Same checkpoint re-evaluated on Mac (MPS). Small gap to Colab CUDA result."
+      },
+      "test_without_near_duplicates": {
+        "images": 59,
+        "removed": 20,
+        "method": "16x16 difference hash, <=20 of 256 bits from any training image",
+        "precision": 0.722,
+        "recall": 0.47,
+        "mAP50": 0.504,
+        "mAP50_95": 0.302,
+        "per_class": {
+          "bruise_discoloration": {
+            "precision": 0.548,
+            "recall": 0.347,
+            "mAP50": 0.305,
+            "mAP50_95": 0.101
+          },
+          "rot_mold_decay": {
+            "precision": 0.773,
+            "recall": 0.692,
+            "mAP50": 0.693,
+            "mAP50_95": 0.488
+          },
+          "surface_damage": {
+            "precision": 0.846,
+            "recall": 0.37,
+            "mAP50": 0.515,
+            "mAP50_95": 0.318
+          }
+        }
+      },
+      "near_duplicates_in_train": {
+        "valid": "64 of 215",
+        "test": "20 of 79",
+        "main_source": "Lab2Wild repeated views"
+      },
+      "test_mean_pixel_iou": {
+        "value": 0.583,
+        "images": 62,
+        "note": "Per image class-aware IoU of predicted vs labeled defect pixels at conf 0.25, test images with a labeled defect"
+      },
+      "test_coverage_agreement": {
+        "images": 78,
+        "pearson_r": 0.906,
+        "mae_points": 5.24
+      }
+    }
+  },
+  "tomato": {
+    "stage1": {
+      "run": 23,
+      "model": "yolo26l-seg",
+      "epochs_done": 14,
+      "finish": "early stopping (patience 10)",
+      "validation": {
+        "images": 132,
+        "precision": 0.935,
+        "recall": 0.972,
+        "mAP50": 0.966,
+        "mAP50_95": 0.959
+      }
+    },
+    "stage2": {
+      "run": 24,
+      "model": "Run 23 best.pt (yolo26l-seg)",
+      "status": "finished",
+      "epochs_done": 190,
+      "finish": "early stopping (patience 30), resumed once",
+      "dataset": {
+        "train": 1313,
+        "valid": 132,
+        "test": 95,
+        "test_reserve": 39
+      },
+      "validation": {
+        "images": 132,
+        "precision": 0.709,
+        "recall": 0.473,
+        "mAP50": 0.494,
+        "mAP50_95": 0.295
+      },
+      "validation_per_class": {
+        "bruise_discoloration": {
+          "precision": 0.667,
+          "recall": 0.423,
+          "mAP50": 0.468,
+          "mAP50_95": 0.261
+        },
+        "rot_mold_decay": {
+          "precision": 0.76,
+          "recall": 0.508,
+          "mAP50": 0.533,
+          "mAP50_95": 0.361
+        },
+        "surface_damage": {
+          "precision": 0.699,
+          "recall": 0.488,
+          "mAP50": 0.482,
+          "mAP50_95": 0.262
+        }
+      },
+      "test": {
+        "images": 95,
+        "precision": 0.732,
+        "recall": 0.375,
+        "mAP50": 0.393,
+        "mAP50_95": 0.194
+      },
+      "test_per_class": {
+        "bruise_discoloration": {
+          "precision": 0.794,
+          "recall": 0.387,
+          "mAP50": 0.388,
+          "mAP50_95": 0.183
+        },
+        "rot_mold_decay": {
+          "precision": 0.848,
+          "recall": 0.382,
+          "mAP50": 0.477,
+          "mAP50_95": 0.24
+        },
+        "surface_damage": {
+          "precision": 0.555,
+          "recall": 0.357,
+          "mAP50": 0.314,
+          "mAP50_95": 0.16
+        }
+      },
+      "test_checkpoint_sha256": "3dbe627b2171975004c21e130d3902d455eefb776906dd46ccf75434d805c6ff",
+      "near_duplicate_check": {
+        "method": "16x16 difference hash, <=20 of 256 bits from any training image",
+        "test": "0 of 95",
+        "valid": "1 of 132"
+      },
+      "test_coverage_agreement": {
+        "images": 93,
+        "pearson_r": 0.817,
+        "mae_points": 3.66
+      },
+      "test_mean_pixel_iou": {
+        "value": 0.41,
+        "images": 51,
+        "note": "Per image class-aware IoU of predicted vs labeled defect pixels at conf 0.25, test images with a labeled defect"
+      }
+    }
+  },
+  "apple_tomato": {
+    "note": "One model for both fruits. Same splits as the separate runs merged without reshuffling. Shared three defect names. Fruit identity comes from Stage 1.",
+    "stage1": {
+      "run": 25,
+      "model": "yolo26l-seg",
+      "epochs_done": 14,
+      "finish": "early stopping (patience 5)",
+      "validation_per_fruit": {
+        "apple": {
+          "images": 215,
+          "precision": 0.995,
+          "recall": 0.982,
+          "mAP50": 0.985,
+          "mAP50_95": 0.984
+        },
+        "tomato": {
+          "images": 132,
+          "precision": 0.941,
+          "recall": 0.978,
+          "mAP50": 0.949,
+          "mAP50_95": 0.949
+        }
+      }
+    },
+    "stage2": {
+      "run": 26,
+      "model": "Run 25 best.pt (yolo26l-seg)",
+      "status": "finished",
+      "epochs_done": 97,
+      "epochs_target": 100,
+      "finish": "early stopping (patience 30)",
+      "dataset": {
+        "train": 3423,
+        "valid": 347,
+        "test": 174,
+        "test_reserve": 102
+      },
+      "validation": {
+        "images": 347,
+        "precision": 0.721,
+        "recall": 0.587,
+        "mAP50": 0.6,
+        "mAP50_95": 0.374
+      },
+      "validation_per_fruit_class": {
+        "apple": {
+          "bruise_discoloration": {
+            "precision": 0.874,
+            "recall": 0.727,
+            "mAP50": 0.782,
+            "mAP50_95": 0.528
+          },
+          "rot_mold_decay": {
+            "precision": 0.878,
+            "recall": 0.675,
+            "mAP50": 0.725,
+            "mAP50_95": 0.596
+          },
+          "surface_damage": {
+            "precision": 0.766,
+            "recall": 0.517,
+            "mAP50": 0.575,
+            "mAP50_95": 0.284
+          }
+        },
+        "tomato": {
+          "bruise_discoloration": {
+            "precision": 0.604,
+            "recall": 0.479,
+            "mAP50": 0.42,
+            "mAP50_95": 0.208
+          },
+          "rot_mold_decay": {
+            "precision": 0.73,
+            "recall": 0.576,
+            "mAP50": 0.594,
+            "mAP50_95": 0.357
+          },
+          "surface_damage": {
+            "precision": 0.601,
+            "recall": 0.485,
+            "mAP50": 0.506,
+            "mAP50_95": 0.246
+          }
+        }
+      },
+      "test": {
+        "images": 174,
+        "precision": 0.621,
+        "recall": 0.511,
+        "mAP50": 0.454,
+        "mAP50_95": 0.278
+      },
+      "test_per_fruit": {
+        "apple": {
+          "images": 79,
+          "precision": 0.769,
+          "recall": 0.591,
+          "mAP50": 0.586,
+          "mAP50_95": 0.401
+        },
+        "tomato": {
+          "images": 95,
+          "precision": 0.533,
+          "recall": 0.416,
+          "mAP50": 0.352,
+          "mAP50_95": 0.182
+        }
+      },
+      "test_per_fruit_class": {
+        "apple": {
+          "bruise_discoloration": {
+            "precision": 0.703,
+            "recall": 0.516,
+            "mAP50": 0.411,
+            "mAP50_95": 0.278
+          },
+          "rot_mold_decay": {
+            "precision": 0.815,
+            "recall": 0.803,
+            "mAP50": 0.849,
+            "mAP50_95": 0.642
+          },
+          "surface_damage": {
+            "precision": 0.789,
+            "recall": 0.455,
+            "mAP50": 0.497,
+            "mAP50_95": 0.284
+          }
+        },
+        "tomato": {
+          "bruise_discoloration": {
+            "precision": 0.596,
+            "recall": 0.419,
+            "mAP50": 0.36,
+            "mAP50_95": 0.168
+          },
+          "rot_mold_decay": {
+            "precision": 0.606,
+            "recall": 0.5,
+            "mAP50": 0.442,
+            "mAP50_95": 0.234
+          },
+          "surface_damage": {
+            "precision": 0.397,
+            "recall": 0.33,
+            "mAP50": 0.253,
+            "mAP50_95": 0.147
+          }
+        }
+      },
+      "test_checkpoint_sha256": "694a8e808093ebaa5c1a1847b4f7cf0b356223f311d44bc8b1506c8297c5209e"
+    }
+  },
+  "dataset_stats": {
+    "median_defect_area_pct_of_fruit_train": {
+      "apple": {
+        "bruise_discoloration": 11.3,
+        "rot_mold_decay": 48.0,
+        "surface_damage": 0.35
+      },
+      "tomato": {
+        "bruise_discoloration": 7.4,
+        "rot_mold_decay": 3.5,
+        "surface_damage": 0.46
+      }
+    }
+  }
+}

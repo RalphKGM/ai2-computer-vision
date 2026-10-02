@@ -1,0 +1,145 @@
+{
+  "source_dataset": "apple-tomato-sep29-refresh/tomato",
+  "source_sha256": "04a5b79e5bfa87564980054d80083cea3e09979c6b96f125e5c86380d7f4b5df",
+  "dataset_sha256": "adb6f411dffb44f862d2e62d731ce8ad0f1fdafbdb74a17f0fa226ddf0ecdf0b",
+  "class_names": [
+    "tomato",
+    "bruise_discoloration",
+    "rot_mold_decay",
+    "surface_damage"
+  ],
+  "output_counts": {
+    "train": 1313,
+    "valid": 132,
+    "test": 95,
+    "test_reserve": 39
+  },
+  "masks_by_split": {
+    "train": 3418,
+    "valid": 341,
+    "test": 208,
+    "test_reserve": 88
+  },
+  "images_without_selected_mask_by_split": {
+    "train": 0,
+    "valid": 0,
+    "test": 0,
+    "test_reserve": 0
+  },
+  "images_by_class_by_split": {
+    "train": {
+      "tomato": 1313,
+      "surface_damage": 339,
+      "bruise_discoloration": 374,
+      "rot_mold_decay": 348
+    },
+    "valid": {
+      "tomato": 132,
+      "rot_mold_decay": 37,
+      "surface_damage": 33,
+      "bruise_discoloration": 51
+    },
+    "test": {
+      "tomato": 95,
+      "rot_mold_decay": 25,
+      "surface_damage": 18,
+      "bruise_discoloration": 23
+    },
+    "test_reserve": {
+      "tomato": 39,
+      "rot_mold_decay": 14,
+      "surface_damage": 7,
+      "bruise_discoloration": 7
+    }
+  },
+  "masks_by_class_by_split": {
+    "train": {
+      "tomato": 1562,
+      "surface_damage": 654,
+      "bruise_discoloration": 575,
+      "rot_mold_decay": 627
+    },
+    "valid": {
+      "tomato": 147,
+      "rot_mold_decay": 61,
+      "surface_damage": 62,
+      "bruise_discoloration": 71
+    },
+    "test": {
+      "tomato": 105,
+      "surface_damage": 28,
+      "rot_mold_decay": 44,
+      "bruise_discoloration": 31
+    },
+    "test_reserve": {
+      "tomato": 46,
+      "rot_mold_decay": 18,
+      "surface_damage": 15,
+      "bruise_discoloration": 9
+    }
+  },
+  "distinct_capture_groups_by_class_by_split": {
+    "train": {
+      "tomato": 459,
+      "bruise_discoloration": 130,
+      "rot_mold_decay": 126,
+      "surface_damage": 123
+    },
+    "valid": {
+      "tomato": 132,
+      "bruise_discoloration": 51,
+      "rot_mold_decay": 37,
+      "surface_damage": 33
+    },
+    "test": {
+      "tomato": 95,
+      "bruise_discoloration": 23,
+      "rot_mold_decay": 25,
+      "surface_damage": 18
+    },
+    "test_reserve": {
+      "tomato": 39,
+      "bruise_discoloration": 7,
+      "rot_mold_decay": 14,
+      "surface_damage": 7
+    }
+  },
+  "distinct_capture_groups_by_split": {
+    "train": 459,
+    "valid": 132,
+    "test": 95,
+    "test_reserve": 39
+  },
+  "note": "All images and frozen splits retained. Selected polygons unchanged; class IDs reindexed. Empty defect labels retained.",
+  "source_export": "Post-Harvest Fruit Surface Defec 2 v1, September 29, 2026",
+  "source_class_mapping": {
+    "tomato": "tomato",
+    "bruise-discoloration": "bruise_discoloration",
+    "rot-mold": "rot_mold_decay",
+    "scar-cut": "surface_damage"
+  },
+  "exact_and_flip_cross_split_overlap": 0,
+  "image_dimensions": {
+    "768x1024": 292,
+    "1024x768": 945,
+    "765x1024": 199,
+    "1024x765": 86,
+    "1024x858": 3,
+    "916x1024": 3,
+    "718x1024": 3,
+    "741x1024": 3,
+    "781x1024": 3,
+    "706x1024": 3,
+    "1024x708": 1,
+    "1024x762": 3,
+    "1024x763": 3,
+    "1024x864": 3,
+    "1023x873": 3,
+    "1024x755": 3,
+    "1024x1024": 19,
+    "1024x990": 1,
+    "833x1024": 1,
+    "894x1024": 1,
+    "951x1024": 1
+  }
+}

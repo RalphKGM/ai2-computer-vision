@@ -1,0 +1,2196 @@
+[
+ {
+  "fruit": "apple",
+  "file": "apple__00017__Apple__1st_grade__IMG_20230930_172722_jpg.rf.b5fc2f2010abbc26b17c86aad8a9702c.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.21271398619903514,
+  "pred_cov": 0.29378477469723563,
+  "iou": 0.7093821510297483,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00107__Apple__3rd-grade__IMG_20230425_131012_jpg.rf.79339a4f545e356cb3efeaf2ae4d9911.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 44.18401082733498,
+  "pred_cov": 26.36049853608746,
+  "iou": 0.3287547804497127,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00192__Apple__3rd-grade__IMG_20230425_131241_jpg.rf.647f9146fb1e88ec5480c2e1966c2554.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 60.0484780529631,
+  "pred_cov": 62.462220762155056,
+  "iou": 0.9242018192594119,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00223__Apple__3rd-grade__IMG_20230502_175224_jpg.rf.a1fdd6d3f2d6ba23ec8dca60a8bcc5a8.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 98.76491354394808,
+  "pred_cov": 99.4468971428002,
+  "iou": 0.16120409112040912,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00249__Apple__3rd-grade__IMG_20230419_165647_jpg.rf.23d305c99c4465af05499e9e2e9bb254.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 64.32778995007364,
+  "pred_cov": 51.172074747239144,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00345__Apple__1st_grade__IMG_20230930_172444_jpg.rf.b900fd5911c1d538d81325676174a9d1.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00356__Apple__3rd-grade__IMG_20230425_131847_jpg.rf.3da8a4b85547ff9bc4159af9e4af67d9.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 62.611358817524234,
+  "pred_cov": 84.40714248420613,
+  "iou": 0.7167237576361289,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00405__Apple__1st_grade__IMG_20230930_213918_jpg.rf.c867fa140af43e3942ead73e40bcd2e9.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.9848092583502007,
+  "pred_cov": 0.33681598842153354,
+  "iou": 0.29062909567496725,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00431__Apple__3rd-grade__IMG_20230425_131840_jpg.rf.09ecfd7ee6da455fceab2ae3b7d3c066.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 82.07698130563514,
+  "pred_cov": 70.57979334098737,
+  "iou": 0.8566025879724446,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00444__Apple__3rd-grade__IMG_20230425_131318_jpg.rf.41095ac8a0ba6c0dbf24cda16aa3698a.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 59.216974765745135,
+  "pred_cov": 73.89975280303699,
+  "iou": 0.7584861149539107,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00487__Apple__3rd-grade__IMG_20230426_171227_jpg.rf.cc79a641dae8d28fe574f10da3a75371.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 99.87916088114984,
+  "pred_cov": 99.2875126827252,
+  "iou": 0.9839137496833416,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00498__Apple__3rd-grade__IMG_20230425_131035_jpg.rf.8fadb25a0d7d1337480e0ff0874d6cc0.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 29.40896259703599,
+  "pred_cov": 32.93114444725967,
+  "iou": 0.8467764950058373,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00525__Apple__1st_grade__IMG_20230930_172429_jpg.rf.b8b349559914e03dcf2dd3f607c2093d.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00564__Apple__3rd-grade__IMG_20230503_211148_jpg.rf.8de30720e7e08cc9f20934d0c860c56b.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 86.00540406704488,
+  "pred_cov": 75.69969118943446,
+  "iou": 0.8198550390326222,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00802__apple_candidate__lab2wild__9ef7deb8499f231219798919_jpg.rf.0684a4e54cfa3730a22744ae990ecbd3.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00813__apple_candidate__lab2wild__f332d26686b0270b23f6f70f_jpg.rf.f4932a7e58ede858c17eda4128f1edb2.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 13.080638876542219,
+  "pred_cov": 13.873127464887531,
+  "iou": 0.8921231233289916,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00814__apple_candidate__lab2wild__ae5347952cfc40a711637e97_jpg.rf.f56ef730183ec4d763f5b9a827fc92a4.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 67.16170545331877,
+  "pred_cov": 67.36390303000128,
+  "iou": 0.9414058867118476,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00815__apple_candidate__lab2wild__9eca826285713dc96ba3cf14_jpg.rf.d05a8a53a028a406f71db2d7000b6d83.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 49.934949907753825,
+  "pred_cov": 50.088742671868026,
+  "iou": 0.969840124147389,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00818__apple_candidate__lab2wild__16056f1da502b645cbe09e08_jpg.rf.6d5e2a14e390a35361f3a164765d3fbf.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 8.63741272020801,
+  "pred_cov": 8.87335931115923,
+  "iou": 0.9473129610115911,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00821__apple_candidate__lab2wild__653d361b551515d9eb49755d_jpg.rf.7c3e13a029f574c355427fc80056b2e7.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 12.602417828193865,
+  "pred_cov": 13.377774865965648,
+  "iou": 0.9010754409841752,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00823__Apple__2nd-grade__IMG_20230930_212542_jpg.rf.26e598e72ea1278663bc7ec6859401ee.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.3301209694252748,
+  "pred_cov": 0.34040945204645967,
+  "iou": 0.9236430542778289,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00825__Apple__3rd-grade__IMG_20230502_175222_jpg.rf.c42dc8d893c87ebddd37b9542357f4f7.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 98.86242713600964,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00827__apple_candidate__lab2wild__2aefd8e145bae22bc4360a4b_jpg.rf.82e4fd4476f3e08def2cc892540d76c9.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 36.900478098782784,
+  "pred_cov": 35.65075871725184,
+  "iou": 0.9624735988997495,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00833__apple_candidate__lab2wild__5f8c2e28473fd72c8d2154a5_jpg.rf.865f1f2c6b74a411aab3a3e977e3de26.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00842__apple_candidate__lab2wild__e56188d7e51674c6a11559fd_jpg.rf.57bfab8073396275d4adf5498be552b3.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 94.86963790091838,
+  "pred_cov": 95.53582702441228,
+  "iou": 0.9855123635512177,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00848__Apple__2nd_grade__IMG_20230930_213230_jpg.rf.87991d5fc05bc517f6a3edd4c1c39324.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.4661718980504301,
+  "pred_cov": 0.6012659661714265,
+  "iou": 0.7475872308834447,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00850__Apple__2nd_grade__IMG_20230425_124244_png.rf.f79de9bdac2b5be2d698ed073290d147.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 0.16976034302747248,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00856__Apple__2nd-grade__IMG_20230425_124627_jpg.rf.1eee2c9e99e8444e2506858a3fb94f7b.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "gt_cov": 34.33271424781109,
+  "pred_cov": 36.66548779871672,
+  "iou": 0.5925219543341059,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00858__Apple__1st_grade__IMG_20230930_172513_jpg.rf.0b1f2d17b7277ad3729c382277d378d5.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00862__apple_candidate__lab2wild__c16943e818489366038229bd_jpg.rf.19c0e5543b07430f798e7950891361ae.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 95.06229501770524,
+  "pred_cov": 94.84274605383445,
+  "iou": 0.9911104059939507,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00863__Apple__1st_grade__IMG_20230930_212736_png.rf.716f0391db015d0146ac9ba627bc1907.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00865__Apple__1st_grade__IMG_20230930_214637_png.rf.81a5321249c7621ede08c2daae21bae9.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00870__Apple__2nd-grade__IMG_20230425_124445_jpg.rf.8efc5db8efb37724adf9386feffbbbf1.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 43.590914052654036,
+  "pred_cov": 40.72568280064496,
+  "iou": 0.7218096837504805,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00873__Apple__2nd-grade__IMG_20230425_124604_jpg.rf.8c42500df47148df9e038e7aefb7189b.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 14.104876065202786,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00875__Apple__3rd-grade__IMG_20230502_175209_jpg.rf.5ca8a56c9466505d15e43fbc3f6f7d7d.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 99.5948010539601,
+  "pred_cov": null,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00877__Apple__3rd_grade__IMG_20230425_130952_jpg.rf.5ab3f14e7cab239fcb4fac2fac84b550.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 99.8411054773977,
+  "pred_cov": 91.32709153456041,
+  "iou": 0.9187587573293827,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00880__apple_candidate__lab2wild__96852f812c6b0cbca01f795d_jpg.rf.61cae84f9db9c50a9a00c1cf719a98e3.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 12.877354364989568,
+  "pred_cov": 13.310154143913735,
+  "iou": 0.8644993934133567,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00883__Apple__3rd_grade__IMG_20230425_130649_jpg.rf.9c6eb304eaa748c8ca225fd94d539256.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 53.90172140090698,
+  "pred_cov": 45.59865942233851,
+  "iou": 0.3203109327983952,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00885__apple_candidate__lab2wild__f4707a8ca64c55547c245aea_jpg.rf.29298261f76536cc75365fbd977c7f59.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 42.149298742472716,
+  "pred_cov": 41.61031759917404,
+  "iou": 0.9690441339744141,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00887__Apple__1st_grade__IMG_20230930_214235_png.rf.68493d48bb8456bb8d1df6bbcc1954ed.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00896__apple_candidate__lab2wild__585c22fd59fdfd0f1afb0125_jpg.rf.10c1e873bea1045b9e7d62491fa59a2a.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 48.92259976088576,
+  "pred_cov": 46.96754246129162,
+  "iou": 0.9242768627206776,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00901__apple_candidate__lab2wild__fd71b551c765a3502afda1f9_jpg.rf.98c3d421e66790dee73be79a593ef1af.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 68.47774439182173,
+  "pred_cov": 67.89400006511053,
+  "iou": 0.9821736270716781,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00902__apple_candidate__lab2wild__6aee9f8cd9a35d1d9aa0bb6f_jpg.rf.34758e055e9fac00432545e3fe4aaeb0.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 12.190356666363144,
+  "pred_cov": 14.063472186124171,
+  "iou": 0.8505460869565218,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00903__apple_candidate__lab2wild__557e5a4e73b5cb9edf03d84a_jpg.rf.4fa4a90792cd81f5d24b2653da17a85c.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.16591682691345583,
+  "pred_cov": 0.17287164235300934,
+  "iou": 0.8232421875,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00904__apple_candidate__lab2wild__99b128e247ed310b5d4080c8_jpg.rf.8791e86fa421a70064229f6d13da1213.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 9.524993191733577,
+  "pred_cov": 9.441802188810474,
+  "iou": 0.9308562076917355,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00908__Apple__2nd-grade__IMG_20230425_124633_jpg.rf.47f655731d51058b6a04436ebe0fab69.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 20.519148363358983,
+  "pred_cov": 0.37786290894698715,
+  "iou": 0.30434782608695654,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00909__Apple__1st_grade__IMG_20230930_172513_png.rf.6634ca0e98b6f4149e29bd8d7ebc57dc.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00910__Apple__3rd-grade__IMG_20230425_130655_jpg.rf.fcc2152b0d30d905d23b3c61b95b9ff6.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 20.383234770033315,
+  "pred_cov": 51.146105985839945,
+  "iou": 0.13029362416107382,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00915__apple_candidate__lab2wild__34a4e2ed66d05e455eb4591e_jpg.rf.ea3c273e28d48c96e7c295c37323c722.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 9.51190105787181,
+  "pred_cov": 9.356793085220705,
+  "iou": 0.9598113511770396,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00916__apple_candidate__lab2wild__18b0fef8a339889cae74646f_jpg.rf.cae21f2c366925dd25902db381e0284b.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 14.565293756909037,
+  "pred_cov": 13.819153583266953,
+  "iou": 0.8882871486737558,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00918__Apple__1st_grade__IMG_20230930_212759_png.rf.089b23413566d79b119ac8491040ea84.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00921__apple_candidate__lab2wild__6a4df50256f69cb67e96b4c6_jpg.rf.a0a587ba33e1251bcfbb7170206cdccf.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00922__apple_candidate__lab2wild__550bda1b4e524871b0fea526_jpg.rf.b3d03b551ed86099f81f88c05fe08683.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 13.113913837118556,
+  "pred_cov": 13.247659165236751,
+  "iou": 0.931102005294267,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00923__Apple__3rd_grade__IMG_20230425_131127_jpg.rf.02a43b8bc2176813e9930b51edb95d7e.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 85.33204652478493,
+  "pred_cov": 90.0835168487971,
+  "iou": 0.9421716451550584,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00924__Apple__2nd-grade__IMG_20230425_124631_jpg.rf.b6a825458c326981c343d11dc7de395b.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "gt_cov": 27.451397692257867,
+  "pred_cov": 36.805414676428825,
+  "iou": 0.667905642989347,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00925__apple_candidate__lab2wild__7c358eb8617d5bce532761ea_jpg.rf.3d320fa1f39c2cfd70c3176d1e3fc598.jpg",
+  "gt_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "gt_cov": 9.699438764297406,
+  "pred_cov": 9.32895447741826,
+  "iou": 0.7207809942112213,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00927__Apple__3rd_grade__IMG_20230420_173320_jpg.rf.3df8328029026a133ef41206fa9654f6.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 60.01793715038986,
+  "pred_cov": 72.38971693821372,
+  "iou": 0.814411080566716,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00930__Apple__1st_grade__IMG_20230930_172444_png.rf.c9449c583fac76c3e72860995f020e4d.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00932__Apple__3rd_grade__IMG_20230425_131108_jpg.rf.575e188c51670d53ed0f9aaca557061a.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 41.37578750212838,
+  "pred_cov": 24.138942100942177,
+  "iou": 0.5774875095929458,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00933__Apple__1st_grade__IMG_20230930_172456_png.rf.140b7a88fd6bb840ed79cecca0a40637.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00934__Apple__1st_grade__IMG_20230930_172722_png.rf.5614d7a46e35c50d855288aa5decbabd.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.43093292539260314,
+  "pred_cov": 0.28901832030548524,
+  "iou": 0.552863436123348,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00935__Apple__1st_grade__IMG_20230930_214347_png.rf.4f56f4205ce067abc3eb6244dda30503.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00937__Apple__1st-grade__IMG_20230930_214435_jpg.rf.761d2b15eff33f14ef72a94ff341c0d7.jpg",
+  "gt_classes": [],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00939__Apple__1st_grade__IMG_20230930_172429_png.rf.ebf36dacce2969c0dd667d2550f8a67a.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00940__Apple__1st_grade__IMG_20230930_213737_png.rf.aea19f67120f0293f851413b588649ed.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.35822839774207554,
+  "pred_cov": 0.21973483891248205,
+  "iou": 0.5763713080168776,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple__00941__Apple__1st_grade__IMG_20230930_213811_png.rf.ee12c7a2df795dc7e58dcec4e46a66f3.jpg",
+  "gt_classes": [],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.0,
+  "pred_cov": 0.3157499949317818,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_member_sep27__I005_jpg.rf.e8a83c88f61684775429f3a24104e7f2.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "gt_cov": 8.442753494956644,
+  "pred_cov": 9.051812410403441,
+  "iou": 0.017622979254839383,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_member_sep27__I006_jpg.rf.ca3d4da396974fce6b14a10b6da93e99.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "gt_cov": 8.134761211269021,
+  "pred_cov": 9.512085385057615,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_member_sep27__I020_jpg.rf.4cbb78e61843cc997f62cc86a612a0c5.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 28.701423508919454,
+  "pred_cov": 29.107395391398388,
+  "iou": 0.9132385361552028,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_member_sep27__I265_jpg.rf.59e448d61f46ac5d0bb969509a7549a1.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 29.07223458703917,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I188_jpg.rf.17f1e980c36032cf32c470a0c7c83cb3.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 3.1426156074940104,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I220_jpg.rf.a6fb4a6761ad70f00de94363877bfb79.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 4.809505793994423,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I223_jpg.rf.6203dc408e6e27e134bb317bbc544488.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 1.2773635121202676,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I254_jpg.rf.f9b28007d24adfbc694f2852ce0014fe.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 1.1200955550544311,
+  "pred_cov": 0.8853792180100662,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I333_jpg.rf.3594709eb49769924abed1bc665488d7.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 40.75740575804194,
+  "pred_cov": 13.578267826811617,
+  "iou": 0.32328205561660045,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I402_jpg.rf.de0c99cf1dfdc0e8cce7fc4153100c03.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.821813553847974,
+  "pred_cov": 0.678715000270976,
+  "iou": 0.525154170723791,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__I444_jpg.rf.e18b2ed264f97f2d5f1d8643565317a5.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 1.0650766483107605,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__PC2_webp.rf.2fb561ee1fab2f04c23fd67cd56bf34f.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 1.923207151080111,
+  "pred_cov": 2.0635278015600513,
+  "iou": 0.0,
+  "near_dup": true
+ },
+ {
+  "fruit": "apple",
+  "file": "apple_surface_member_sep27__k319r31olcjc1_jpg.rf.a9d382feb7c7de445585889c4e5c442a.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 2.01765806935023,
+  "pred_cov": 1.493249828794858,
+  "iou": 0.5871606844204297,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__00951__IMG20221127145948_01_jpg.rf.8851fba31fd2d12f3c347370f6ff0c7c.jpg",
+  "gt_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "gt_cov": 6.223852985653205,
+  "pred_cov": 4.937758377791635,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__00959__IMG_20230115_163616_jpg.rf.1e45077012a2db36927298ddcc858fb6.jpg",
+  "gt_classes": [],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.0,
+  "pred_cov": 0.406212128012927,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__00975__IMG_20230111_135553_jpg.rf.d28ef8ff52df427fc1490e9adffbe40a.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__00981__IMG_20230111_140012_jpg.rf.c488cd89a6549fd5fa5c2f0ea7f2ccaf.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__00988__IMG_20230505_111201_jpg.rf.3ab24698e91edadd55be6d5d4783c300.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 48.33395005186502,
+  "pred_cov": 28.940896373777107,
+  "iou": 0.578867943199248,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01013__IMG_20230112_162233_jpg.rf.4fb5e451afba0c5324beee6e7322f151.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01025__IMG_20230111_135441_jpg.rf.1e8cf5d494da7720f3bd12e693819aaa.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01042__IMG_20230115_163644_jpg.rf.2bc76d930c84e8e153a1063ae4a34152.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01055__T0050_T_JPG.rf.312231da69944e911ece917fac748c0e.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 22.71454563658522,
+  "pred_cov": 11.759592741376922,
+  "iou": 0.4021480859234369,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01066__IMG_20230930_171346_jpg.rf.8fdaf8957b7b62bedf60deced073bf4c.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 1.536993290013962,
+  "pred_cov": 1.1867430956092877,
+  "iou": 0.6144957983193278,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01067__IMG20221127151800_jpg.rf.861524cd652f711b56660ada5cdcfd2b.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.35044320758606473,
+  "pred_cov": 0.39945145189839104,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01081__20230106_140333_jpg.rf.6ff2c4a04179b0ca29c63e941e21f6b9.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01092__IMG_20230112_162448_jpg.rf.78cc1146927c7197d8b051b211b1a65f.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.9716044390528822,
+  "pred_cov": 0.8949099187723095,
+  "iou": 0.7908355795148247,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01127__IMG_20230111_135602_jpg.rf.1bd22e62793ddcfb79e2c74746cbfdd4.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01158__20230106_140443_jpg.rf.dadccf60b1217e8743e249b7d127be5f.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01161__IMG_20230112_162437_jpg.rf.435a743dfb161fee9fee17f7687d5b7c.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01175__IMG20221127153053_jpg.rf.c6970a8ac267ed400f1e73e90313bf35.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 6.675815149113821,
+  "pred_cov": 3.745570678050645,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01182__IMG_20230505_110228_jpg.rf.089c227c67c1e1a991bbab8a508797a4.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 1.2618455299751226,
+  "pred_cov": null,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01191__IMG20221127145030_jpg.rf.d87a4f29034fb833deb3fa7bfcb8193e.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "gt_cov": 50.396450415778986,
+  "pred_cov": 0.616113129776929,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01224__IMG_20230114_145309_jpg.rf.93a08efec7e9365e2cc857d202379583.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01237__IMG_20230110_164324_jpg.rf.397be4bc7b2cd8f23a33bcaab3a93d7c.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01238__IMG_20230117_162953_jpg.rf.1f0ed98ca56e8bc2ce2a0e6e5b6b494f.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01257__IMG_20230505_113124_jpg.rf.ae48a698108644f07b17b550b2a9076f.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 12.710125543362617,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01263__IMG_20230110_163847_jpg.rf.fec597f3eb2a6637646ce68c5622bd7b.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01286__IMG_20230505_111242_jpg.rf.51ea2640eb1a4fa96c170cd791406429.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 8.743410813795874,
+  "pred_cov": 10.110783901276118,
+  "iou": 0.6449238578680203,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01299__T0058_S2_JPG.rf.9e9a111c389e3fb2db571fc5efa55ffd.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 6.60156321263914,
+  "pred_cov": 6.891440006319281,
+  "iou": 0.9408727766053663,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01319__IMG_5747_jpg.rf.56f3a430ba4eb5bcd943ac99e0eed109.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01328__IMG_20230114_145356_jpg.rf.9b6b538c9cc847adeeb8efa0985ec6aa.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01361__IMG_20230930_171411_jpg.rf.fade74a580bc6cb4c2ca0d9d06b58845.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01392__IMG_20230505_111155_jpg.rf.48bdbddd984becfdefe25ecaa5e4b4e7.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 82.4224441957215,
+  "pred_cov": 85.940292649812,
+  "iou": 0.937984496124031,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01393__IMG_20230110_163837_jpg.rf.878dc4eed66ddfff24f3f5d09476a26a.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01394__IMG_20230505_110220_jpg.rf.68b387fa1ed0ff87126f589313377c73.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 1.2859667674833062,
+  "pred_cov": 1.3637921017741959,
+  "iou": 0.8381277425646027,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01398__IMG_20230111_135447_jpg.rf.40b8d1b4f1fd61823edf20073a83d7c4.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01407__IMG_20230930_171356_jpg.rf.fc07c8926337be23c687626d19685b4b.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01416__IMG_20230110_164321_jpg.rf.3ea029fbb194b6e0730fea91a33ddf71.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01421__IMG_20230930_171156_jpg.rf.1e46a7823432b03afec4532250b9f877.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.11983634470904381,
+  "pred_cov": 0.11064671795182426,
+  "iou": 0.5145888594164456,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01429__IMG_20230930_171340_jpg.rf.d11155a1ee60aa335d221e3cfd389403.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01438__IMG_20230114_145514_jpg.rf.83dc2facd8054c6ad2f963bad6754ca9.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01482__IMG_20230930_172129_jpg.rf.b341f920721718a826d142b947f9f778.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01506__IMG20221127152340_jpg.rf.9c4c4841976e0d832721c3ad73da5fdf.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 1.4562471080224548,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01511__20230106_140408_jpg.rf.452b4bb0e75d1341203e56fab08c8766.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 0.46243447874199184,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01528__IMG_20230930_172257_jpg.rf.c4c3d449cbc49948459ed5fa18ea6ed0.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01563__T0137_S1_JPG.rf.cec47dcb2b4da91a26df22db327e6978.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 38.053872145993786,
+  "pred_cov": 40.50932646247641,
+  "iou": 0.34150011687704535,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01564__IMG_20230110_164311_jpg.rf.6ed8b45d756c4b04ac40fb447a4627d9.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01568__T0137_T_JPG.rf.627123626caa72da821fcbc49442b682.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [],
+  "gt_cov": 55.07630907620241,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01572__T0047_E_JPG.rf.bd1e5940b16e7030fb400172aeb88aba.jpg",
+  "gt_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 32.070109457325835,
+  "pred_cov": 31.631126406372136,
+  "iou": 0.06311010723350963,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01573__20230106_140249_jpg.rf.507473970bc714d50fe0cc03f2ba38f7.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01576__IMG_5758_jpg.rf.94717741fe61854aca0c623234e0d41c.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01588__IMG_20230930_170846_jpg.rf.6d9d76bdff6c5af1e605ce0db2513c27.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01591__IMG_20230109_155610_jpg.rf.05d51ee05390ee3870cc15070f8921c9.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01593__T0014_S2_JPG.rf.a928bbe7d5930b184e557fcb171c0aca.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 9.029517688757686,
+  "pred_cov": null,
+  "iou": 0.23848491374153566,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01598__20230106_140311_jpg.rf.a71b759edd092af0e3c1fe960402d663.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01599__20230104_121811_jpg.rf.2a3de464c6091b2bc136b5f31508075e.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 0.5431181917630926,
+  "pred_cov": 0.4993303554148313,
+  "iou": 0.7464424320827943,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01603__IMG_20230505_113223_jpg.rf.81fb8bfd92daddb36b936c3db9f5f02f.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 1.029678052972409,
+  "pred_cov": 44.84574578659255,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01606__T0150_T_JPG.rf.f596be098b707e56fd623de6c55f31a3.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 10.51538597242874,
+  "pred_cov": 10.046956364694433,
+  "iou": 0.8984105358764759,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01609__IMG_20230505_113128_jpg.rf.8d70a0ec5b550995f31ce68ac8e2cfc9.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 6.489122873585025,
+  "pred_cov": 1.7574368508783178,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01611__T0059_T_JPG.rf.1dcbf06fa240b971734134ed24a53ecf.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 23.253018853714256,
+  "pred_cov": 27.422093283311757,
+  "iou": 0.8482658959537572,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01613__IMG_20230109_160205_jpg.rf.3cc26545e800065a562e645fa5fc650f.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01615__T0010_S2_JPG.rf.a1746977ff36c693913355bbfa160086.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 17.300406079448177,
+  "pred_cov": 16.942949407965553,
+  "iou": 0.8906853651479824,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01616__T0158_S2_JPG.rf.de86153756d877b89c6c22d33cfc9482.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 1.432421772285038,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01617__T0179_S2_JPG.rf.c9ca91cfda6f7d6a586b896e0c3162d4.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 37.60591694278193,
+  "pred_cov": 37.82672045515368,
+  "iou": 0.895639311478932,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01618__T0156_E_JPG.rf.fa6c7eb70d31989f1a42029f91658497.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 60.29919674751821,
+  "pred_cov": 63.99727215159043,
+  "iou": 0.9285736014358288,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01626__IMG_20230112_162354_jpg.rf.cbcb708e2b5836d15fb9cba4c7f115a7.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01628__T0160_S2_JPG.rf.464aa4c71e59810bd12ae8a0e4f7ffc6.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 22.610194249858782,
+  "pred_cov": 26.78108820023406,
+  "iou": 0.8498598458304134,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01629__T0105_S1_JPG.rf.13e9185cf0ba53ae09ec627dff7f4a6f.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 7.09474571605533,
+  "pred_cov": 1.4731857513006783,
+  "iou": 0.3348138025281859,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01631__IMG_20230505_111221_jpg.rf.d9ec0b5d7e9b2a4845154a74f841cab3.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 25.453979546465096,
+  "pred_cov": 29.4665244065084,
+  "iou": 0.8132017594629009,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01632__T0167_T_JPG.rf.8a8483aacdf66cadf24aa96aba0ad167.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 56.95652173913044,
+  "pred_cov": 52.23036804441869,
+  "iou": 0.6478382851606652,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01633__IMG20221127153318_jpg.rf.464a27f6c9a9ae84e9aeef31caf3bb86.jpg",
+  "gt_classes": [
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 1.0916185256317799,
+  "pred_cov": 0.0,
+  "iou": 0.3598901098901099,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01634__T0050_S2_JPG.rf.2a2fbb708ad205f0db1bbd6830f183e8.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 3.7126079403442023,
+  "pred_cov": 0.1642713097281214,
+  "iou": 0.32879377431906615,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01635__IMG_20230109_160209_jpg.rf.e9eee592c8c4dfabe96ea752b574006c.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01636__T0005_T_JPG.rf.96d6381dcff1d657ca48b26a6aacaa65.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 6.237626124084631,
+  "pred_cov": 5.440740799416993,
+  "iou": 0.3210729469680018,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01637__IMG_20230505_105821_jpg.rf.c3b469839305a661a1633390a07ca0c3.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "gt_cov": 25.458476109240113,
+  "pred_cov": 5.566620778536071,
+  "iou": 0.08046906591184796,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01638__IMG20221127153458_01_jpg.rf.69f57d4b353f52c461c29238ca9353ff.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "gt_cov": 4.979546642881309,
+  "pred_cov": 4.809091753630818,
+  "iou": 0.6891242108354133,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01639__IMG_20230930_171442_jpg.rf.2b691a437d31a89bb74a4d434e95abcc.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01640__20230105_124603_jpg.rf.249ca90942c106f5974a934f0328d24c.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01641__IMG_20230109_155659_jpg.rf.ec64e9407108faa3a400d5a8066e47c6.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01642__20230105_124429_jpg.rf.5243826a30393ea2456eaa975f1c09cc.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01643__20230104_121606_jpg.rf.219ca658aff93772d668e2afc61ea455.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01644__T0145_E_JPG.rf.f3be571de88b2cdecf280fc5e01f0758.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 16.604075282525553,
+  "pred_cov": 38.184576116055126,
+  "iou": 0.20667049267172877,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01645__IMG_20230108_154102_jpg.rf.332e0355353cb577bc16651a8d4b0780.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01649__IMG_20221127_145630_jpg.rf.e07a1a19cc32c3f4eb5a66454f1b03aa.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [],
+  "gt_cov": 8.011342907366256,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01650__T0027_S2_JPG.rf.b7bb48bfdadfbe062d8c2aecd290b6b4.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [],
+  "gt_cov": 2.808610830810629,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01651__IMG_20230505_112254_jpg.rf.3a051f92a9ac1971d9197d730c958892.jpg",
+  "gt_classes": [
+   "rot_mold_decay"
+  ],
+  "pred_classes": [
+   "rot_mold_decay"
+  ],
+  "gt_cov": 12.571790883018645,
+  "pred_cov": 13.910341766533511,
+  "iou": 0.8543649151841125,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01652__IMG_20230108_154645_jpg.rf.0a0e3a96f04acf86c845da288b15d52c.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01653__T0014_T_JPG.rf.9f68d20dbb1dd9a83599dc8f47213e6d.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "surface_damage"
+  ],
+  "gt_cov": 18.65587740846341,
+  "pred_cov": 7.691549746805598,
+  "iou": 0.35850703357634256,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01654__T0111_E_JPG.rf.f37052c2b3f2808430b9b86a9fab7966.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay"
+  ],
+  "gt_cov": 30.641393877756293,
+  "pred_cov": 41.36604799225571,
+  "iou": 0.3615720524017467,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01656__IMG_20230110_163935_jpg.rf.d6962e334324ee652f01868a6e7eb9b0.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01657__T0102_E_JPG.rf.24c048bb2cc70980b4a96cea7c8e9402.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [],
+  "gt_cov": 5.609680486810894,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01658__IMG_20230609_071816_jpg.rf.1a42eef1607a29689d98c11a2776764b.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 47.14081831936561,
+  "pred_cov": 42.03798392987582,
+  "iou": 0.756339278167526,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01659__IMG_20230930_170730_jpg.rf.3a73170fbe3808154051a3a4e8fcdc55.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01660__T0176_T_JPG.rf.011db89a150a7063ba9978d498e14f5d.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 22.782692881191842,
+  "pred_cov": 23.60856690904232,
+  "iou": 0.7950446316843247,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01661__T0127_S2_JPG.rf.15f48cf191e0e97595f6a3a1800e03eb.jpg",
+  "gt_classes": [
+   "bruise_discoloration"
+  ],
+  "pred_classes": [
+   "bruise_discoloration"
+  ],
+  "gt_cov": 29.80752823942941,
+  "pred_cov": 28.2303580237,
+  "iou": 0.7954912427758415,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01663__IMG_20230505_105854_jpg.rf.830c58a23e81334f7e862340b81e5bb9.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "pred_classes": [
+   "rot_mold_decay",
+   "surface_damage"
+  ],
+  "gt_cov": 5.264939672566252,
+  "pred_cov": 4.023031788523816,
+  "iou": 0.2338065307313315,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01664__T0112_S2_JPG.rf.2d20e86d39218e3f736c296d66bc8fc3.jpg",
+  "gt_classes": [
+   "bruise_discoloration",
+   "surface_damage"
+  ],
+  "pred_classes": [],
+  "gt_cov": 4.378074695077577,
+  "pred_cov": 0.0,
+  "iou": 0.0,
+  "near_dup": false
+ },
+ {
+  "fruit": "tomato",
+  "file": "tomato__01666__IMG_20230930_171359_jpg.rf.d758b7cd91cabac7e993d2cbba426485.jpg",
+  "gt_classes": [],
+  "pred_classes": [],
+  "gt_cov": 0.0,
+  "pred_cov": 0.0,
+  "iou": null,
+  "near_dup": false
+ }
+]

@@ -1,0 +1,45 @@
+{
+  "source": "Fruit Segmentation-9 COCO export",
+  "input_counts": {
+    "train": 2355,
+    "valid": 224,
+    "test": 113
+  },
+  "output_counts": {
+    "train": 2110,
+    "test": 79,
+    "valid": 215,
+    "test_reserve": 63
+  },
+  "distinct_by_split": {
+    "train": 726,
+    "test": 75,
+    "valid": 210,
+    "test_reserve": 61
+  },
+  "images_by_class": {
+    "apple": 2467,
+    "bruise_discoloration": 703,
+    "rot_mold_decay": 733,
+    "surface_damage": 638
+  },
+  "masks_by_class": {
+    "apple": 2480,
+    "bruise_discoloration": 826,
+    "rot_mold_decay": 840,
+    "surface_damage": 1024
+  },
+  "exclusions": {
+    "source_files_matching_frozen_heldout": 555,
+    "other_source_split_variants": 9,
+    "missing_apple_mask": 18,
+    "frozen_heldout_copied": 357
+  },
+  "classes": [
+    "apple",
+    "bruise_discoloration",
+    "rot_mold_decay",
+    "surface_damage"
+  ],
+  "note": "Training labels from Fruit Segmentation-9; apple heldouts from September 29 dataset preserved."
+}

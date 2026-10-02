@@ -1,0 +1,146 @@
+{
+  "class_names": [
+    "apple",
+    "tomato",
+    "bruise_discoloration",
+    "rot_mold_decay",
+    "surface_damage"
+  ],
+  "output_counts": {
+    "train": 3423,
+    "test": 174,
+    "valid": 347,
+    "test_reserve": 102
+  },
+  "masks_by_split": {
+    "train": 7816,
+    "test": 376,
+    "valid": 796,
+    "test_reserve": 237
+  },
+  "images_without_selected_mask_by_split": {
+    "train": 0,
+    "test": 0,
+    "valid": 0,
+    "test_reserve": 0
+  },
+  "images_by_class_by_split": {
+    "train": {
+      "apple": 2110,
+      "bruise_discoloration": 981,
+      "rot_mold_decay": 968,
+      "surface_damage": 886,
+      "tomato": 1313
+    },
+    "test": {
+      "apple": 79,
+      "surface_damage": 40,
+      "bruise_discoloration": 43,
+      "rot_mold_decay": 53,
+      "tomato": 95
+    },
+    "valid": {
+      "apple": 215,
+      "rot_mold_decay": 97,
+      "surface_damage": 86,
+      "bruise_discoloration": 110,
+      "tomato": 132
+    },
+    "test_reserve": {
+      "apple": 63,
+      "rot_mold_decay": 39,
+      "bruise_discoloration": 24,
+      "surface_damage": 23,
+      "tomato": 39
+    }
+  },
+  "masks_by_class_by_split": {
+    "train": {
+      "apple": 2119,
+      "bruise_discoloration": 1284,
+      "rot_mold_decay": 1324,
+      "surface_damage": 1527,
+      "tomato": 1562
+    },
+    "test": {
+      "apple": 79,
+      "surface_damage": 61,
+      "rot_mold_decay": 77,
+      "bruise_discoloration": 54,
+      "tomato": 105
+    },
+    "valid": {
+      "apple": 219,
+      "rot_mold_decay": 141,
+      "surface_damage": 151,
+      "bruise_discoloration": 138,
+      "tomato": 147
+    },
+    "test_reserve": {
+      "rot_mold_decay": 48,
+      "apple": 63,
+      "bruise_discoloration": 36,
+      "surface_damage": 44,
+      "tomato": 46
+    }
+  },
+  "distinct_capture_groups_by_class_by_split": {
+    "train": {
+      "apple": 726,
+      "tomato": 459,
+      "bruise_discoloration": 343,
+      "rot_mold_decay": 346,
+      "surface_damage": 324
+    },
+    "test": {
+      "apple": 75,
+      "tomato": 95,
+      "bruise_discoloration": 43,
+      "rot_mold_decay": 53,
+      "surface_damage": 39
+    },
+    "valid": {
+      "apple": 210,
+      "tomato": 132,
+      "bruise_discoloration": 110,
+      "rot_mold_decay": 97,
+      "surface_damage": 85
+    },
+    "test_reserve": {
+      "apple": 61,
+      "tomato": 39,
+      "bruise_discoloration": 24,
+      "rot_mold_decay": 39,
+      "surface_damage": 23
+    }
+  },
+  "distinct_capture_groups_by_split": {
+    "train": 1185,
+    "test": 170,
+    "valid": 342,
+    "test_reserve": 100
+  },
+  "images_by_fruit_split": {
+    "apple": {
+      "train": 2110,
+      "test": 79,
+      "valid": 215,
+      "test_reserve": 63
+    },
+    "tomato": {
+      "train": 1313,
+      "test": 95,
+      "valid": 132,
+      "test_reserve": 39
+    }
+  },
+  "source_datasets": {
+    "apple": "data/pilots/apple-sep30-fruit9/dataset",
+    "tomato": "data/pilots/tomato-two-stage-oct01/tomato-sep29-source-oct01"
+  },
+  "note": "Image bytes, polygon coordinates, and frozen split assignments retained. No new augmentations created.",
+  "source_identity": "c7976de067867bb1b12c374e5c77680a94eaf59590eb006eac8817d129bf13c8",
+  "exact_pixel_cross_split_overlap": 0,
+  "exact_flip_cross_split_overlap": 0,
+  "capture_group_cross_split_overlap": 0
+}
