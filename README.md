@@ -13,6 +13,7 @@ Adviser: Dr. Lysa V. Comia, Mapúa University
 | `4_Web_Deployment_Source/` and `4_Web_Deployment_Source.zip` | Streamlit app source |
 | `5_PPT_Presentation/` | Final defense slides (.pptx) |
 | `6_Dataset/` | Apple, tomato and combined datasets with README |
+| `7_AI_Transcript/` and `7_AI_Transcript.zip` | AI disclosure, original-session prompt/reply exports, full recorded tool calls and results, and embedded user images |
 
 ## Results (mask metrics, unseen test set)
 

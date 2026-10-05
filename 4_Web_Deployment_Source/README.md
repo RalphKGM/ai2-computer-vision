@@ -60,7 +60,7 @@ Put the checkpoints in `models/`:
 The app accepts JPG PNG WEBP and BMP uploads or built-in samples. It shows colored masks with a legend, each
 defect's share of the image and of the fruit, inference time and a PNG download. A missing model or an unreadable
 file gives a clear message instead of an error.
-The Batch upload tab runs up to 30 photos at once and exports a CSV table and a ZIP of the masked images.
+The Batch upload tab runs up to 30 photos at once. Previous and Next buttons step through each image. Add the matching YOLO label .txt files (for example from `test/labels`) to see the team label next to the prediction and per-image mAP50, pixel IoU, precision and recall. Results export as a CSV table and a ZIP of masked images.
 
 ## Repository layout
 
